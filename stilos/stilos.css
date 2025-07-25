@@ -67,3 +67,12 @@ footer{
     justify-content: center;
     text-align: center;
 }
+.im4 {
+    width: 10%;
+    height: auto;
+    padding: 2px;
+    display: block;
+    margin:0 auto;
+    border-radius: 15px;
+    text-align: center;
+}
